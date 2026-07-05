@@ -1,1 +1,1 @@
-This website is designed to help spreadd awareness about pressing concerns as concerns the youth of our great and proud nation.
+This website is designed to help spread awareness about pressing concerns as pertains to the youth of our great and proud nation.
