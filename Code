@@ -14,10 +14,10 @@
 		<div id="evidence">
 		<h3>The Evidence</h3>
 		<ol>
-		<li><img src="images/epsteinhoody.jpg" alt="proof 1"> --> <img src="images/danhoody.jpg" alt="also proof 1"></li>
-		<li><img src="images/epsteinboat.jpg" alt="proof 2"> --> <img src="images/danboat.jpg" alt="also proof 2"></li>
-		<li><img src="images/epsteinglasses.jpg" alt="proof 3"> --> <img src="images/danglasses.jpg" alt="also proof 3"></li>
-		<li><img src="images/epsteinmike.jpg" alt="proof 4"> --> <img src="images/danmike.jpg" alt="also proof 4"></li>
+		<li><img src="epsteinhoody.jpeg" alt="proof 1"> --> <img src="danhoody.jpg" alt="also proof 1"></li>
+		<li><img src="epsteinboat.jpeg" alt="proof 2"> --> <img src="danboat.jpg" alt="also proof 2"></li>
+		<li><img src="epsteinglasses.jpeg" alt="proof 3"> --> <img src="danglasses.jpg" alt="also proof 3"></li>
+		<li><img src="epsteinmike.jpeg" alt="proof 4"> --> <img src="danmike.jpg" alt="also proof 4"></li>
 		</ol>
 		</div>
 		<div id="breakdown">
